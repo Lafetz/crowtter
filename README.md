@@ -14,6 +14,6 @@ Twitter clone,final project from The Odin Project's curriculum
 * Following and unfollowing users.
 * Adding images to tweets.
 * Profiles
-* Hashtags
+
 
 
