@@ -1,0 +1,18 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100%;
+  width: 100%;
+}
+
+.rightSide {
+  padding: 25% 30px;
+  gap: 9px;
+  display: flex;
+  flex-direction: column;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
